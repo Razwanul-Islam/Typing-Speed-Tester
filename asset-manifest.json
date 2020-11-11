@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Typing-Speed-Tester/static/css/main.573703f9.chunk.css",
+    "main.js": "/Typing-Speed-Tester/static/js/main.2a4cf76e.chunk.js",
+    "main.js.map": "/Typing-Speed-Tester/static/js/main.2a4cf76e.chunk.js.map",
+    "runtime-main.js": "/Typing-Speed-Tester/static/js/runtime-main.cfbf0262.js",
+    "runtime-main.js.map": "/Typing-Speed-Tester/static/js/runtime-main.cfbf0262.js.map",
+    "static/css/2.67123b20.chunk.css": "/Typing-Speed-Tester/static/css/2.67123b20.chunk.css",
+    "static/js/2.0f8d68f9.chunk.js": "/Typing-Speed-Tester/static/js/2.0f8d68f9.chunk.js",
+    "static/js/2.0f8d68f9.chunk.js.map": "/Typing-Speed-Tester/static/js/2.0f8d68f9.chunk.js.map",
+    "index.html": "/Typing-Speed-Tester/index.html",
+    "precache-manifest.a0688e4b1dd6083117af449b3cd94709.js": "/Typing-Speed-Tester/precache-manifest.a0688e4b1dd6083117af449b3cd94709.js",
+    "service-worker.js": "/Typing-Speed-Tester/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/Typing-Speed-Tester/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.573703f9.chunk.css.map": "/Typing-Speed-Tester/static/css/main.573703f9.chunk.css.map",
+    "static/js/2.0f8d68f9.chunk.js.LICENSE.txt": "/Typing-Speed-Tester/static/js/2.0f8d68f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfbf0262.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.0f8d68f9.chunk.js",
+    "static/css/main.573703f9.chunk.css",
+    "static/js/main.2a4cf76e.chunk.js"
+  ]
+}
