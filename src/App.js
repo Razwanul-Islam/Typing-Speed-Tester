@@ -2,7 +2,7 @@ import React,{ Component } from 'react';
 import './App.css';
 class App extends Component {
   state={
-   mainText:"You may be wondering why we chose a photo of NASA’s Mars Rover for the cover. We actually chose it for several reasons. Obviously, it is very exciting; in fact, space represents the most exciting frontier forth entire world! In addition, much of the Rover itself consists of all kinds of circuits. Circuits that must work without needing maintenance! Once you are on Mars, it is hard to find a technician!"
+   mainText:"You may be wondering why we chose a photo of NASA's Mars Rover for the cover. We actually chose it for several reasons. Obviously, it is very exciting; in fact, space represents the most exciting frontier forth entire world! In addition, much of the Rover itself consists of all kinds of circuits. Circuits that must work without needing maintenance! Once you are on Mars, it is hard to find a technician!"
    ,typed_text:'',
    len:0,time: {},
     seconds: 60,
