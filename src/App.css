@@ -1,0 +1,130 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+.d-none{display: none;}
+.d-flex{display: flex;}
+.App-header {
+  background-color: #021a4b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.main{
+  align-content: center;
+  width:100vw;
+  height:100vh;
+  background: rgb(17, 146, 114);
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  justify-content: space-around;
+  padding:10px;
+}
+.header-text{
+  width:70%;
+  display: flex;
+  justify-content: center;
+  color:white;
+  font-size: 2.3rem;
+  font-family: cursive;
+}
+.timer{
+  width: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.541);
+  text-shadow: 1px 1px grey;
+  height: 120px;
+  font-size:2.5rem;
+  color:white;
+  box-shadow: 3px 3px 2px rgba(255, 255, 255, 0.247);
+}
+
+.main-text{
+  color:white;
+  font-family: sans-serif;
+  padding:20px;
+  font-size:1.5rem;
+}
+.edit-holder{
+  padding:10px;
+}
+.edit-text{
+  width:100%;
+  height: 200px;
+  padding:10px;
+  border:none;
+  outline:none;
+  border-radius:15px;
+}
+.dialouge-container{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top:0;
+  left:0;
+  background: rgba(0, 0, 0, 0.096);
+
+}
+.dialog{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width:350px;
+  height: 400px;
+  padding:10px;
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+  border-radius:5px;
+  box-shadow: 2px 2px 3px rgb(68, 68, 68);
+  background-color: white;
+}
+.dialog table{
+  width: 100%;
+}
+.dialog table tr{
+  display: flex;
+  justify-content: space-around;
+}
+.fantasy{font-family: cursive;color:rgb(48, 48, 48);}
+.btn{
+  border-radius: 5px;
+  border:none;
+  background-color: royalblue;
+  color:white;
+  font-size:1.4rem;
+  padding:10px;
+}
+.foo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  font-family: cursive;
+}
